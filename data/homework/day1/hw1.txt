@@ -1,0 +1,21 @@
+(1) why is it important?
+ans:
+  Learn and pratice the regression skill in this topic.
+
+(2) Where do data come from?
+ans:
+  The Ames Housing dataset was compiled by Dean De Cock for use in data science education
+
+(3) What are they?
+ans:
+  With 79 explanatory variables describing (almost) every aspect of residential homes in Ames
+  File descriptions
+
+  train.csv - the training set
+  test.csv - the test set
+  data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
+  sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
+(4) Evaluation
+ans:
+  Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
+  

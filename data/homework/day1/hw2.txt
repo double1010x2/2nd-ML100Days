@@ -1,0 +1,17 @@
+(1) PMD
+ans:
+  car style, location, time would affect the willingness of taking your car.
+
+(2) where do the data come from
+ans:
+  taxi fleet, ex: Taiwan Taxi Co., LTD
+
+(3) what is the data?
+ans:
+  income per mounth, and expenses of gasoline
+
+(4)
+ans:
+  How to maximize the income per every one liter of gasoline by the combination
+  of feature? which combination of car stye, location and timing would get
+  the better ratio?
